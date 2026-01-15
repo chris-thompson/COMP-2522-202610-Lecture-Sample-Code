@@ -31,8 +31,8 @@ public final class UsingToArray {
         colours = links.toArray(new String[0]);
 
         System.out.println("colours: ");
-        for (String color : colours) {
-            System.out.println(color);
+        for (String colour : colours) {
+            System.out.println(colour);
         }
 
     }
