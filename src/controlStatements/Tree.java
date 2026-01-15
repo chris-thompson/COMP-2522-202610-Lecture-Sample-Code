@@ -3,7 +3,7 @@ package controlStatements;
 /**
  * Demonstrates the use of nested for loops.
  *
- * @author Lewis & Loftus 9e
+ * @author Link
  * @author BCIT
  * @version 2026
  */
